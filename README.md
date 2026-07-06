@@ -6,7 +6,7 @@ Este proyecto compara el desempeño del Análisis Discriminante Lineal (LDA) y e
 
 ## Contenido del repositorio
 
-- `U4_S14: Tarea: Análisis Discriminante (LDA y QDA).ipynb`: Notebook desarrollado en Google Colab.
+- `U4_S14_Tarea_Análisis_Discriminante_(LDA_y_QDA).ipynb`: Notebook desarrollado en Google Colab.
 - `Wine dataset.csv`: Conjunto de datos utilizado en el proyecto.
 - `README.md`: Instrucciones para ejecutar el proyecto y resumen de los resultados.
 
@@ -29,7 +29,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## Cómo ejecutar el proyecto
 
 1. Clonar o descargar este repositorio.
-2. Abrir el archivo `U4_S14: Tarea: Análisis Discriminante (LDA y QDA).ipynb` en Google Colab o Jupyter Notebook.
+2. Abrir el archivo `U4_S14_Tarea_Análisis_Discriminante_(LDA_y_QDA).ipynb` en Google Colab o Jupyter Notebook.
 3. Verificar que el archivo `Wine dataset.csv` se encuentre en la misma carpeta del notebook o subirlo al entorno de Colab.
 4. Ejecutar todas las celdas del notebook en orden.
 
