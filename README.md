@@ -54,6 +54,6 @@ Características principales:
 
 ## Autor
 
-Nombre: Tu nombre
-Curso: (Nombre de la materia)
-Fecha: Julio 2026
+Nombre: Pablo Alejandro Espinoza Pérez
+Curso: Aprendizaje Automatico
+Fecha: 6 de Julio de 2026
